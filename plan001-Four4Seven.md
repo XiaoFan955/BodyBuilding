@@ -98,6 +98,30 @@
 
    ![image-20221123113935012](images/image-20221123113935012.png)
 
+#### 腰腹拉伸
+
+1. 腹部拉伸
+
+   ![image-20221125100036083](images/image-20221125100036083.png)
+
+2. 
+
+#### 三角肌拉伸
+
+1. 三角肌拉伸
+
+   ![image-20221125100226013](images/image-20221125100226013.png)
+
+2. 向上拉伸
+
+   ![image-20221125101116404](images/image-20221125101116404.png)
+
+3. 单侧手腕拉伸
+
+   ![image-20221125100941317](images/image-20221125100941317.png)
+
+4. 
+
 ### 周一：胸肌+肱三头肌
 
 杠铃平板卧推
@@ -152,19 +176,35 @@
 
 坐姿哑铃推举
 
+![img](images/943303c9e3834c2a9e81426b545fa104.gif)
+
 杠铃颈前推举
+
+![img](images/26b7f2d8ba7341b9b66f7c221ad0f140.gif)
 
 哑铃侧平举
 
+![img](images/fd295fbe937a4d4c9d2677240fea1e61.gif)
+
 哑铃前平举
+
+![img](images/5ca10bd9566e4b528e2614f348c1e6bd.gif)
 
 哑铃俯身飞鸟
 
+![img](images/35fc069a88894a628c3b2ac5fd7b164f.gif)
+
 卷腹 3*15
+
+![img](images/7b6834a400bf4721a08f0695f650f7bc.gif)
 
 反向卷腹 3*15
 
+![img](images/9bd955c2cc5e4f919ad3bbf80e573726.gif)
+
 转体卷腹 3*15
+
+![卷腹转体](images/b9ecdc829a974e3ab468fbaa440fe597.gif)
 
 ### 周日：臀腿部
 
